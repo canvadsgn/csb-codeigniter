@@ -1,1 +1,1 @@
-# csb-codeigniter
+# codesb-igniter
